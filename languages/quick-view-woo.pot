@@ -1,0 +1,250 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Quick View for WooCommerce\n"
+"POT-Creation-Date: 2021-07-13 17:29+0300\n"
+"PO-Revision-Date: 2016-08-29 19:22+0300\n"
+"Last-Translator: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"Language-Team: Anastis Sourgoutsidis <anastis@cssigniter.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: quick-view-woo.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-qvw-modal.php:102
+msgid "Sale!"
+msgstr ""
+
+#: includes/class-qvw-modal.php:126
+msgid "Awaiting product image"
+msgstr ""
+
+#: includes/class-qvw-modal.php:234
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-qvw-modal.php:277
+msgid "SKU:"
+msgstr ""
+
+#: includes/class-qvw-modal.php:277
+msgid "N/A"
+msgstr ""
+
+#: includes/class-qvw-modal.php:281
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-qvw-modal.php:283
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:24 quick-view-woo.php:267
+msgid "Quick View"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:38
+#: includes/class-qvw-settings-quickviewwoo.php:256
+msgid "Button"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:39
+msgid "Modal"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:98
+msgid "Dimensions"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:106
+msgid "Modal width"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:107
+msgid ""
+"Width of the popup window (in pixels). Only applies to non-mobile devices."
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:127
+msgid "Colors"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:133
+msgid "Page Overlay color"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:134
+msgid "The color that covers the page's content when the popup appears."
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:142
+msgid "Content Background color"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:150
+msgid "Content Border color"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:158
+msgid "Content Text color"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:166
+msgid "Content Link color"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:174
+msgid "Content Link Hover color"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:182
+msgid "Content Rating Active color"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:190
+msgid "Content Rating Inactive color"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:198
+msgid "Buttons Background color"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:206
+msgid "Buttons Text color"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:214
+msgid "Buttons Border color"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:222
+msgid "Buttons Hover Background color"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:230
+msgid "Buttons Hover Text color"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:238
+msgid "Buttons Hover Border color"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:263
+msgid "Visibility"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:264
+msgid "Show button"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:272
+msgid "Show button in mobile devices"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:280
+msgid "Show button in single products"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:286
+msgid "Applies to Related Products, Up-Sells, etc."
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:289
+msgid "Maximize non-shop compatibility"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:295
+msgid ""
+"Enabling this option, allows the Quick View buttons to be displayed in non-"
+"shop pages, such as on your homepage and pages built with page builders "
+"(Elementor, Divi, etc)."
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:300
+msgid "Button text"
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:306
+msgid "Button classes"
+msgstr ""
+
+#. translators: %s is a list of space-separated html classes.
+#: includes/class-qvw-settings-quickviewwoo.php:308
+#, php-format
+msgid ""
+"Space-separated list of HTML classes that the Quick View button will have. "
+"Default: <code>%s</code>."
+msgstr ""
+
+#: includes/class-qvw-settings-quickviewwoo.php:314
+msgid "Button position"
+msgstr ""
+
+#: quick-view-woo.php:306
+msgid "Before thumbnail"
+msgstr ""
+
+#: quick-view-woo.php:311
+msgid "Before title"
+msgstr ""
+
+#: quick-view-woo.php:316
+msgid "Before rating"
+msgstr ""
+
+#: quick-view-woo.php:321
+msgid "Before price"
+msgstr ""
+
+#: quick-view-woo.php:326
+msgid "Before Add to Cart button"
+msgstr ""
+
+#: quick-view-woo.php:331
+msgid "After Add to Cart button"
+msgstr ""
+
+#. translators: %s is a URL.
+#: quick-view-woo.php:589
+#, php-format
+msgid ""
+"Quick View requires WooCommerce. Please install and activate the free <a "
+"href=\"%s\" target=\"_blank\">WooCommerce</a> plugin."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CSSIgniter Quick View for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.cssigniter.com/plugins/quick-view-woo-pro/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Quick View for WooCommerce"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "The CSSIgniter Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.cssigniter.com"
+msgstr ""
